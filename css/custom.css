@@ -1494,6 +1494,15 @@ hr.main {
     -webkit-transition: .5s;
     transition: .5s;
 }
+.contact-section .contact-card .project-content {
+    text-align: center;
+    align-content: center;
+    padding: 30px 20px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
 
 .contact-section .contact-card i {
     color: #ffea00;

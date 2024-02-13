@@ -135,7 +135,7 @@
                 <li class="nav-item dropdown">
                   <a class="nav-link" href="#" data-toggle="dropdown">Projects <i class="fas fa-chevron-down"></i></a>
                   <ul class="dropdown-menu small-menu">
-                    <a href="#">Complete Projects</a>
+                    <a href="complete_projects.php">Complete Projects</a>
                     <a href="#">Upcomming Projects</a>
                   </ul>
                 </li>
