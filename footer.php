@@ -103,7 +103,7 @@
               </a>
             </li>
             <li>
-              <a href="3">
+              <a href="https://www.google.com/maps/?cid=1960018890830958322">
                 <i class="fas fa-map-marker-alt"></i>
                 Plot No.N2 S.I.T.E jamshoro, Kotri, Jamshoro, Sindh, Pakistan
               </a>
@@ -120,6 +120,9 @@
           <ul>
             <li>
               <a href="index.php">Home</a>
+            </li>
+            <li>
+              <a href="aboutus.php">About us</a>
             </li>
             <li>
               <a href="about.html">Products</a>

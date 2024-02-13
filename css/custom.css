@@ -786,7 +786,9 @@ a, button {
     margin: auto;
 }
 
-.about-style-two .about-text p {
+.contact-area .about-text p {
+    
+    font-size: 18px;
 }
 
 .about-style-two .about-img img {

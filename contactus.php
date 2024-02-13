@@ -63,7 +63,9 @@ Dongfang@gmail.com
 <i class="fas fa-map-marker-alt"></i>
 <ul>
 <li>
+  <a href="https://www.google.com/maps/?cid=1960018890830958322">
 Plot No.N2 S.I.T.E jamshoro, Kotri, Jamshoro, Sindh, Pakistan
+</a>
 </li>
 </ul>
 </div>
@@ -73,7 +75,7 @@ Plot No.N2 S.I.T.E jamshoro, Kotri, Jamshoro, Sindh, Pakistan
 <div class="col-lg-9">
 <div class="contact-area">
 <h3>Let's Talk</h3>
-<form id="contactForm" novalidate="true">
+<form id="contactForm" method="post" novalidate="true">
 <div class="row">
 <div class="col-sm-6">
 <div class="form-group">
@@ -109,6 +111,30 @@ Plot No.N2 S.I.T.E jamshoro, Kotri, Jamshoro, Sindh, Pakistan
 <button type="submit" class="default-btn contact-btn disabled" style="pointer-events: all; cursor: pointer;">
 Send Message
 </button>
+
+<?php
+if (isset($_POST['submit'])) {
+    // Get form data
+    $name = $_POST['name'];
+    $email = $_POST['email'];
+    $number = $_POST['number'];
+    $subject = $_POST['subject'];
+    $message = $_POST['message'];
+
+    // Email information
+    $to = "mbux.270@gmail.com"; // Enter your email address here
+    $subject = "New Contact Form Submission";
+    $body = "Name: $name\nEmail: $email\nNumber: $number\nSubject: $subject\nMessage: $message";
+
+    // Send email
+    if (mail($to, $subject, $body)) {
+        echo "Thank you! Your message has been sent.";
+    } else {
+        echo "Oops! Something went wrong. Please try again later.";
+    }
+}
+?>
+
 <div id="msgSubmit" class="h3 alert-text text-center hidden"></div>
 <div class="clearfix"></div>
 </div>

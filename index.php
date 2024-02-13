@@ -103,7 +103,7 @@
         <div class="about-text">
           <div class="section-title">
             <span>Our Company</span>
-            <h2>Dongfang International Co., Ltd., founded in 2002</h2>
+            <h2>Dongfang International Co., founded in 2002</h2>
           </div>
           <p>
             Specializes in manufacturing concrete admixtures and chemical raw materials.
@@ -143,7 +143,7 @@
 <!-- <section class="service-style-three  pb-70">
   <div class="container">
     <div class="section-title text-center">
-      <span>Our Services</span>
+      <span>Our Products</span>
       <h2>Trenty Provides All Building Services</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
         magna aliqua. Quis ipsum suspendisse ultrices gravida. </p>
@@ -155,10 +155,13 @@
           </div>
           <div class="service-content">
             <img src="img/s1.svg" />
-            <h3>Urban Infrastructure</h3>
-            <p>Urban Infrastructure refers to the physical structure presents in cities towns. Urban
-              Infrastructure development has a key role to play in both economic growth and poverty
-              reduction..</p>
+            <h3>Water Reducer</h3>
+            <p>Polycarboxylic water reducer is a compound product of carboxylic acid
+              graft copolymers and other effective additives. It is one of the most
+              advanced concrete water reducing agents in the world, with the
+              highest scientific and technological content, the best application
+              prospect and the best comprehensive performance.
+            </p>
             <a href="service-details.html" class="service-btn">
               Read More
             </a>
@@ -171,8 +174,31 @@
           </div>
           <div class="service-content">
             <img src="img/s2.svg" />
-            <h3>Road Infrastructure</h3>
-            <p>We understand that the most effective way of adding value to build environment is road construction.</p>
+            <h3>Accelerating Admixture</h3>
+            <p>The accelerating admixture is an admixture that can
+              quicklysolidifies the concrete. Powdery solid, the amount of
+              contentin concrete is 2%～3%, can accelerate the hydration
+              hardening of the cement, meet the strength of the requirement
+              in a short time, ensure the construction is carried out.</p>
+            <a href="service-details.html" class="service-btn">
+              Read More
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-sm-6">
+        <div class="service-card text-center">
+          <div class="service-img construction">
+          </div>
+          <div class="service-content">
+            <img src="img/s4.svg" />
+            <h3>Curing Compound </h3>
+            <p>Curing compound is a new type of polymer preparation
+              prepared by modern high technology. Liquid is a kind of wide
+              adaptability of film-forming compounds, the product is water,non-toxic non-combustible,
+
+            </p>
             <a href="service-details.html" class="service-btn">
               Read More
             </a>
@@ -188,22 +214,6 @@
             <h3>Industrial Infrastructure</h3>
             <p>The foundation of a modern economy is a robust industrial infrastructure. This is especially true in
               emerging economies, which are becoming the hub of infrastructure development and expansion.</p>
-            <a href="service-details.html" class="service-btn">
-              Read More
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 col-sm-6">
-        <div class="service-card text-center">
-          <div class="service-img construction">
-          </div>
-          <div class="service-content">
-            <img src="img/s4.svg" />
-            <h3>Construction Engineering</h3>
-            <p>With the help of our professional We deals with the designing, planning, construction, and management of
-              infrastructures such as roads, tunnels, bridges, airports, railroads, facilities, buildings, dams,
-              utilities and other projects.</p>
             <a href="service-details.html" class="service-btn">
               Read More
             </a>
@@ -245,7 +255,109 @@
   </div>
 </section> -->
 
+<section class="project-section pt-100">
+  <div class="container">
+    <div class="section-title text-center">
+      
+        <h2>Our Products</h2>
+      
 
+    </div>
+    <div class="section-title text-center">
+      <h4>Concrete Agent</h4>
+    </div>
+    <div class="row">
+      <div class="col-md-4">
+        <div class="gal-item">
+          <!-- GALLERY IMAGE -->
+          <img src="img/products/Water_Proof_Agents_2.jpeg" height="200px" alt="" class="img-fluid">
+          <!-- Hover Info -->
+          <div class="hover-info">
+            <h6>Water Reducer</h6>
+            <p> Polycarboxylic Water Reducer , Naphthalene Water Reducer</p>
+            <a href="#."><i class="fas fa-arrow-right"></i></a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="gal-item ">
+          <!-- GALLERY IMAGE -->
+          <img src="img/products/Accelerating_admixtures.avif" height="200px" alt="" class="img-fluid">
+          <!-- Hover Info -->
+          <div class="hover-info">
+            <h6>Accelerating Admixture </h6>
+            <p> accelerator, alkali-free accelerator, </p>
+            <a href="#."><i class="fas fa-arrow-right"></i></a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="gal-item">
+          <!-- GALLERY IMAGE -->
+          <img src="img/products/cement_plstciser.webp" height="200px" width="100%" alt="" class="img-fluid">
+          <!-- Hover Info -->
+          <div class="hover-info">
+            <h6>Cement Plasticizer</h6>
+            <p>The mortar king is also called cement plasticizer</p>
+            <a href="#."><i class="fas fa-arrow-right"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="height:10px"></div>
+    <div class="project-btn text-center">
+      <p>View All Concrete Agent. <a href="project.html">View More</a></p>
+      <br>
+    </div>
+    <div class="section-title text-center">
+
+      <h4>Mineral and Its Powder</h4>
+    </div>
+    <div class="row">
+      <div class="col-md-4">
+        <div class="gal-item">
+          <!-- GALLERY IMAGE -->
+          <img src="img/products/Bentonite.jpeg" height="200px" alt="" class="img-fluid">
+          <!-- Hover Info -->
+          <div class="hover-info">
+            <h6>Bentonite</h6>
+            <p>Bentonite is a clay mineral which is mainly composed of montmorillonite.</p>
+            <a href="#."><i class="fas fa-arrow-right"></i></a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="gal-item ">
+          <!-- GALLERY IMAGE -->
+          <img src="img/products/limestone_powder.jpg" height="200px" alt="" class="img-fluid">
+          <!-- Hover Info -->
+          <div class="hover-info">
+            <h6>Limestone Powder</h6>
+            <p>Limestone is the main component of calcium carbonate (CaCO3). A large number of materials used in building materials and industry.</p>
+            <a href="#."><i class="fas fa-arrow-right"></i></a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="gal-item">
+          <!-- GALLERY IMAGE -->
+          <img src="img/products/PULVISTALCI.webp" height="200px" width="100%" alt="" class="img-fluid">
+          <!-- Hover Info -->
+          <div class="hover-info">
+            <h6>PULVISTALCI/TALC </h6>
+            <p>Talc is mainly composed of magnesium silicate with water and molecular</p>
+            <a href="#."><i class="fas fa-arrow-right"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="height:10px"></div>
+    <div class="project-btn text-center">
+      <p>View All Mineral and Its Powder. <a href="project.html">View More</a></p>
+      <br>
+    </div>
+  </div>
+</section>
 
 
 <section class="facilities-section">
@@ -256,7 +368,7 @@
           <div class="section-title">
             <!-- <span>More Facilities</span> -->
             <h2>Company Performance Goals and Objectives</h2>
-            <p> We have 17 years of Experience while 
+            <p> We have 17 years of Experience while
               procducing following products for especially for construction Industries</p>
           </div>
           <ul>
@@ -300,7 +412,7 @@
     </div>
     <div class="row">
       <div class="col-md-4">
-        <div class="gal-item"> 
+        <div class="gal-item">
           <!-- GALLERY IMAGE -->
           <img src="img/projects/gomal_dam.JPG" height="200px" alt="" class="img-fluid">
           <!-- Hover Info -->
@@ -312,7 +424,7 @@
         </div>
       </div>
       <div class="col-md-4">
-        <div class="gal-item "> 
+        <div class="gal-item ">
           <!-- GALLERY IMAGE -->
           <img src="img/projects/jumpir_project_2.jpg" height="200px" alt="" class="img-fluid">
           <!-- Hover Info -->
@@ -324,7 +436,7 @@
         </div>
       </div>
       <div class="col-md-4">
-        <div class="gal-item"> 
+        <div class="gal-item">
           <!-- GALLERY IMAGE -->
           <img src="img/projects/thar_coal_proejct.gif" height="200px" width="100%" alt="" class="img-fluid">
           <!-- Hover Info -->
@@ -341,7 +453,7 @@
       <p>Visit Our All Projects. <a href="project.html">View More</a></p>
       <br>
     </div>
-  </div> 
+  </div>
 </section>
 
 

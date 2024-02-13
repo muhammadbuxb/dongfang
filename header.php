@@ -81,8 +81,9 @@
                   SAT - THU (09:00 AM - 05:00PM)
                 </li>
                 <li>
-                  <i class="fas fa-map-marker-alt"></i>
-                  Plot No.N2 S.I.T.E jamshoro, Kotri, Jamshoro, Sindh, Pakistan
+                  <a href="https://www.google.com/maps/?cid=1960018890830958322"><i class="fas fa-map-marker-alt"></i>
+                    Plot No.N2 S.I.T.E jamshoro, Kotri, Jamshoro, Sindh, Pakistan
+                  </a>
                 </li>
                 <li>
                   <i class="fas fa-mobile-alt"></i>
@@ -114,7 +115,7 @@
                   <a class="nav-link" href="index.php">Home</a>
                 </li>
                 <li class="nav-item active">
-                  <a class="nav-link" href="#">About us</a>
+                  <a class="nav-link" href="aboutus.php">About us</a>
                 </li>
 
 
