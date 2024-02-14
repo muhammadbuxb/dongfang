@@ -13,7 +13,7 @@
 
           <li data-transition="random" data-slotamount="10" data-masterspeed="1200" data-delay="5000">
             <!--  BACKGROUND IMAGE -->
-            <img src="img/slider/slider_1.jpg" alt="" data-start="0" data-bgposition="center center" data-kenburns="on"
+            <img id="slider-image" src="img/slider/slider_1.jpg" alt="" data-start="0" data-bgposition="center center" data-kenburns="on"
               data-duration="10000" data-ease="Linear.easeNone" data-bgfit="100" data-bgfitend="100"
               data-bgpositionend="center center" />
 
@@ -43,7 +43,7 @@
 
           <li data-transition="fade" data-slotamount="10" data-masterspeed="1200" data-delay="5000">
             <!--  BACKGROUND IMAGE -->
-            <img src="img/slider/slider_5.jpg" alt="" data-start="0" data-bgposition="center center" data-kenburns="on"
+            <img id="slider-image" src="img/slider/slider_5.jpg" alt="" data-start="0" data-bgposition="center center" data-kenburns="on"
               data-duration="10000" data-ease="Linear.easeNone" data-bgfit="100" data-bgfitend="100"
               data-bgpositionend="center center" />
 
@@ -270,7 +270,7 @@
       <div class="col-md-4">
         <div class="gal-item">
           <!-- GALLERY IMAGE -->
-          <img src="img/products/Water_Proof_Agents_2.jpeg" height="200px" alt="" class="img-fluid">
+          <img src="img/products/Water-Reducing.jpg" height="200px" alt="" class="img-fluid">
           <!-- Hover Info -->
           <div class="hover-info">
             <h6>Water Reducer</h6>
@@ -306,7 +306,7 @@
     </div>
     <div style="height:10px"></div>
     <div class="project-btn text-center">
-      <p>View All Concrete Agent. <a href="project.html">View More</a></p>
+      <p>View All Concrete Agent. <a href="concreteAgentProducts.php">View More</a></p>
       <br>
     </div>
     <div class="section-title text-center">
@@ -353,7 +353,7 @@
     </div>
     <div style="height:10px"></div>
     <div class="project-btn text-center">
-      <p>View All Mineral and Its Powder. <a href="project.html">View More</a></p>
+      <p>View All Mineral and Its Powder. <a href="minerals.php">View More</a></p>
       <br>
     </div>
   </div>
@@ -450,7 +450,7 @@
     </div>
     <div style="height:30px"></div>
     <div class="project-btn text-center">
-      <p>Visit Our All Projects. <a href="project.html">View More</a></p>
+      <p>Visit Our All Projects. <a href="complete_projects">View More</a></p>
       <br>
     </div>
   </div>

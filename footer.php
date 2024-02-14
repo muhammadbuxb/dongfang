@@ -1,22 +1,9 @@
  <footer class="footer-area pt-100">
   <div class="container">
     <div class="row">
-      <!-- <div class="col-lg-3 col-sm-6">
+      <div class="col-lg-3 col-sm-6">
         <div class="footer-widget">
-          <h3>Trenty</h3>
-
-          <p>Lorem ipsum dolor sit amet, mattetur adipiscing elit, sed do.</p>
-          <div class="newsletter-area">
-            <h3>Join Newsletter</h3>
-            <form class="newsletter-form" data-toggle="validator" novalidate="true">
-              <input type="email" class="form-control" placeholder="Email" name="EMAIL" required="" autocomplete="off">
-              <button class="default-btn subscribe-btn disabled" type="submit"
-                style="pointer-events: all; cursor: pointer;">
-                Subscribe
-              </button>
-              <div id="validator-newsletter" class="form-result"></div>
-            </form>
-          </div>
+          
           <div class="footer-social">
             <a href="" target="_blank" class="social-facebook">
               <i class="fab fa-facebook-f"></i>
@@ -35,7 +22,7 @@
 
           </div>
         </div>
-      </div> -->
+      </div>
       <!-- <div class="col-lg-3 col-sm-6">
         <div class="footer-widget pl-35">
           <h3>Our Service</h3>
@@ -62,31 +49,24 @@
           </ul>
         </div>
       </div> -->
-      <!-- <div class="col-lg-3 col-sm-6">
+      <div class="col-lg-3 col-sm-6">
         <div class="footer-widget pl-35">
-          <h3>Quick Links</h3>
+          <h3>Certifications</h3>
           <ul>
+           
             <li>
-              <a href="faq.html">FAQ</a>
+              <a href="QMS.php">Quality Management Systems</a>
             </li>
             <li>
-              <a href="service.html">Services</a>
+              <a href="EMS.php">Enviromental Management Systems</a>
             </li>
+            
             <li>
-              <a href="team.html">Team</a>
-            </li>
-            <li>
-              <a href="privacy.html">Privacy &amp; Policy</a>
-            </li>
-            <li>
-              <a href="terms.html">Terms &amp; Conditions</a>
-            </li>
-            <li>
-              <a href="contact.html">Contact Us</a>
+              <a href="OHS.php">Occupational Health and Safety Management Systems</a>
             </li>
           </ul>
         </div>
-      </div> -->
+      </div>
       <div class="col-lg-3 col-sm-6">
         <div class="footer-widget">
           <h3>Contacts</h3>
@@ -124,13 +104,7 @@
             <li>
               <a href="aboutus.php">About us</a>
             </li>
-            <li>
-              <a href="about.html">Products</a>
-            </li>
-           
-            <li>
-              <a href="project.html">Projects</a>
-            </li>
+            
            
             <li>
               <a href="contactus.php">Contact Us</a>
@@ -675,7 +649,20 @@
   });
 </script>
 
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var currentSlideIndex = 0;
+    var images = ["img/slider/slider_1.jpg", "img/slider/slider_2.jpg", "img/slider/slider_3.jpg"]; // Add more image URLs as needed
+    var sliderImage = document.getElementById('slider-image');
 
+    function changeImage() {
+      currentSlideIndex = (currentSlideIndex + 1) % images.length;
+      sliderImage.src = images[currentSlideIndex];
+    }
+
+    setInterval(changeImage, 2000); // Change image every 2 seconds
+  });
+</script>
 </body>
 
 </html>
