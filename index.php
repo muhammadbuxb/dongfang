@@ -419,7 +419,7 @@
           <div class="hover-info">
             <h6>Gomal Zam Dam</h6>
             <p> from July 2008 to October 2011</p>
-            <a href="#."><i class="fas fa-arrow-right"></i></a>
+            <a href="complete_projects.php#gomal_dam"><i class="fas fa-arrow-right"></i></a>
           </div>
         </div>
       </div>
