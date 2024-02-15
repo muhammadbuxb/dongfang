@@ -33,7 +33,7 @@
               <ul>
                 <li>
                   <a href="tel:">
-                    +92 343 1362647
+                    +92 342 3939 058
                   </a>
                 </li>
                 <li>
@@ -74,6 +74,7 @@
         <div class="contact-area">
           <h3>Let's Talk</h3>
           <form id="contactForm" method="post" novalidate="true">
+
             <div class="row">
               <div class="col-sm-6">
                 <div class="form-group">
@@ -111,34 +112,12 @@
                 </div>
               </div>
               <div class="col-sm-12">
-                <button type="submit" class="default-btn contact-btn disabled"
+                <button type="submit" name="submit" class="default-btn contact-btn disabled"
                   style="pointer-events: all; cursor: pointer;">
                   Send Message
                 </button>
 
-                <?php
-                if (isset($_POST['submit'])) {
-                  // Get form data
-                  $name = $_POST['name'];
-                  $email = $_POST['email'];
-                  $number = $_POST['number'];
-                  $subject = $_POST['subject'];
-                  $message = $_POST['message'];
-
-                  // Email information
-                  $to = "mbux.270@gmail.com"; // Enter your email address here
-                  $subject = "New Contact Form Submission";
-                  $body = "Name: $name\nEmail: $email\nNumber: $number\nSubject: $subject\nMessage: $message";
-
-                  // Send email
-                  if (mail($to, $subject, $body)) {
-                    echo "Thank you! Your message has been sent.";
-                  } else {
-                    echo "Oops! Something went wrong. Please try again later.";
-                  }
-                }
-                ?>
-
+               
                 <div id="msgSubmit" class="h3 alert-text text-center hidden"></div>
                 <div class="clearfix"></div>
               </div>
@@ -149,5 +128,42 @@
     </div>
   </div>
 </section>
+<?php
+if (isset($_POST["submit"])) {
+    // Get the form fields and remove whitespace
+    $name = strip_tags(trim($_POST["name"]));
+    $name = str_replace(array("\r","\n"),array(" "," "),$name);
+    $email = filter_var(trim($_POST["email"]), FILTER_SANITIZE_EMAIL);
+    $phone = trim($_POST["number"]);
+    $subject = trim($_POST["subject"]);
+    $message = trim($_POST["message"]);
+
+    // Set your email address where you want to receive emails
+    $to = "mbux.270@gmail.com";
+
+    // Set your email subject
+    $subject = "New contact form submission from $name";
+
+    // Build the email content
+    $email_content = "Name: $name\n";
+    $email_content .= "Email: $email\n";
+    $email_content .= "Phone: $phone\n";
+    $email_content .= "Subject: $subject\n";
+    $email_content .= "Message:\n$message\n";
+
+    // Build the email headers
+    $email_headers = "From: $name <$email>";
+
+    // Send the email
+    if (mail($to, $subject, $email_content, $email_headers)) {
+      // Email sent successfully
+      echo '<script>alert("Thank you for your message. We will contact you shortly.");</script>';
+  } else {
+      // Email not sent
+      echo '<script>alert("Oops! Something went wrong and we couldn\'t send your message.");</script>';
+  }
+} 
+?>
+
 
 <?php include("footer.php"); ?>

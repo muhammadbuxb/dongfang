@@ -77,7 +77,7 @@
                         </div>
                         <p>
                             Specializes in manufacturing concrete admixtures and chemical raw materials.
-                            With three strategically located factories in Hyderabad, Yahimiyah Khan, and Islamabad,
+                            With three strategically located factories in Hyderabad and Islamabad,
                             our reach extends across Pakistan and neighboring regions. Adhering to stringent quality
                             standards such as GB/ASTM/ISO/EN14001/OHSAS18001, we boast state-of-the-art laboratories
                             and testing facilities, ensuring impeccable quality control for every product batch.

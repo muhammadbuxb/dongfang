@@ -74,7 +74,7 @@
             <li>
               <a href="tel:">
                 <i class="fas fa-mobile-alt"></i>
-                +92 343 1362647</a>
+                +92 342 3939 058</a>
             </li>
             <li>
               <a href="mailto:email@xpat.com">
