@@ -87,7 +87,7 @@
                 </li>
                 <li>
                   <i class="fas fa-mobile-alt"></i>
-                  <a href="tel:+923431362647">+92 342 3939 058</a>
+                  <a href="tel:+923423939058">+92 342 3939 058</a>
                 </li>
               </ul>
             </div>

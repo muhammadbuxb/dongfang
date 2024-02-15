@@ -219,7 +219,7 @@
 
             </div>
 
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -227,7 +227,7 @@
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer">Bentonite </h2>
                             <p></p>
@@ -250,7 +250,7 @@
                 </div>
 
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -258,7 +258,7 @@
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer"> Limestone</h2>
                             <p></p>
@@ -279,7 +279,7 @@
                 </div>
 
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -287,7 +287,7 @@
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer"> PULVISTALCI/TALC</h2>
                             <p></p>
@@ -306,7 +306,7 @@
                 </div>
 
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -314,7 +314,7 @@
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer">Barite</h2>
                             <p></p>
@@ -330,7 +330,7 @@
                 </div>
 
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -338,7 +338,7 @@
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer">Gypsum </h2>
                             <p></p>
@@ -357,7 +357,7 @@
                 </div>
 
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -365,7 +365,7 @@
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer">Diatomite</h2>
                             <p></p>
@@ -390,7 +390,7 @@
                 </div>
 
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -398,7 +398,7 @@
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer">Aluminous soil,Bauxite </h2>
                             <p></p>
@@ -417,7 +417,7 @@
                 </div>
 
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -425,7 +425,7 @@
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer"> Sonite </h2>
                             <p></p>
@@ -445,7 +445,7 @@
                 </div>
 
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -453,7 +453,7 @@
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer">Bonding mortar</h2>
                             <p></p>
@@ -471,7 +471,7 @@
                 </div>
 
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -479,7 +479,7 @@
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer">Anti-cracking mortar</h2>
                             <p></p>
@@ -498,7 +498,7 @@
                 </div>
 
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -506,7 +506,7 @@
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer">Putty powder </h2>
                             <p></p>
@@ -529,7 +529,7 @@
                 </div>
 
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -537,7 +537,7 @@
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer">Tile Adhesive</h2>
                             <p></p>
@@ -556,7 +556,7 @@
                 </div>
 
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -564,7 +564,7 @@
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer">Slag (Heat Insulation Material) </h2>
                             <p></p>
@@ -587,7 +587,7 @@
                 </div>
 
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -595,7 +595,7 @@
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer">Fly Ash </h2>
                             <p></p>

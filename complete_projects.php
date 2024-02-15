@@ -26,10 +26,10 @@
       <!-- <p>Dong Fang International Co.</p> -->
     </div>
     <div class="row">
-      <div class="col-lg-12">
-        <div class="row" id="gomal_dam">
-          <div class="col-lg-4 col-sm-2">
-            <div class="contact-card">
+      <div class="col-lg-12 ">
+        <div class="row contact-card" id="gomal_dam">
+          <div class="col-lg-4 col-sm-2 ">
+            <div class="">
               <img src="img/projects/gomal_dam.JPG" height="200px" alt="" class="img-fluid">
             </div>
           </div>
@@ -51,7 +51,7 @@
             </div>
           </div>
         </div>
-        <div class="row" id="gomal_dam">
+        <div class="row contact-card" id="gomal_dam ">
           <div class="col-lg-4 col-sm-2">
             <div class="contact-card">
               <img src="img/projects/khankhawar_project.JPG" height="200px" alt="" class="img-fluid">
@@ -75,7 +75,7 @@
             </div>
           </div>
         </div>
-        <div class="row" id="gomal_dam">
+        <div class="row contact-card" id="gomal_dam">
           <div class="col-lg-4 col-sm-2">
             <div class="contact-card">
               <img src="img/projects/AllaiKhwar_project.png" height="200px" alt="" class="img-fluid">
@@ -99,7 +99,7 @@
             </div>
           </div>
         </div>
-        <div class="row" id="gomal_dam">
+        <div class="row contact-card" id="gomal_dam">
           <div class="col-lg-4 col-sm-2">
             <div class="contact-card">
               <img src="img/projects/darawat_project.jpg" height="200px" alt="" class="img-fluid">
@@ -123,7 +123,7 @@
             </div>
           </div>
         </div>
-        <div class="row" id="gomal_dam">
+        <div class="row contact-card" id="gomal_dam">
           <div class="col-lg-4 col-sm-2">
             <div class="contact-card">
               <img src="img/projects/jumpir_project.jpeg" height="200px" alt="" class="img-fluid">
@@ -148,7 +148,7 @@
             </div>
           </div>
         </div>
-        <div class="row" id="gomal_dam">
+        <div class="row contact-card" id="gomal_dam">
           <div class="col-lg-4 col-sm-2">
             <div class="contact-card">
               <img src="img/projects/port_qasim_project.jpg" height="200px" alt="" class="img-fluid">
@@ -173,7 +173,7 @@
             </div>
           </div>
         </div>
-        <div class="row" id="gomal_dam">
+        <div class="row contact-card" id="gomal_dam">
           <div class="col-lg-4 col-sm-2">
             <div class="contact-card">
               <img src="img/projects/huboo_project.jpg" height="200px" alt="" class="img-fluid">
@@ -197,7 +197,7 @@
             </div>
           </div>
         </div>
-        <div class="row" id="gomal_dam">
+        <div class="row contact-card" id="gomal_dam">
           <div class="col-lg-4 col-sm-2">
             <div class="contact-card">
               <img src="img/projects/thar_coal_proejct.gif" height="200px" alt="" class="img-fluid">
@@ -222,7 +222,7 @@
             </div>
           </div>
         </div>
-        <div class="row" id="gomal_dam">
+        <div class="row contact-card" id="gomal_dam">
           <div class="col-lg-4 col-sm-2">
             <div class="contact-card">
               <img src="img/projects/gawadar_eastbay_project.png" height="200px" alt="" class="img-fluid">
@@ -246,7 +246,7 @@
             </div>
           </div>
         </div>
-        <div class="row" id="gomal_dam">
+        <div class="row contact-card" id="gomal_dam">
           <div class="col-lg-4 col-sm-2">
             <div class="contact-card">
               <img src="img/projects/lucky.png" height="200px" alt="" class="img-fluid">
@@ -270,7 +270,7 @@
             </div>
           </div>
         </div>
-        <div class="row" id="gomal_dam">
+        <div class="row contact-card" id="gomal_dam">
           <div class="col-lg-4 col-sm-2">
             <div class="contact-card">
               <img src="img/projects/kkhproject.jpg" height="200px" alt="" class="img-fluid">
@@ -294,7 +294,7 @@
             </div>
           </div>
         </div>
-        <div class="row" id="gomal_dam">
+        <div class="row contact-card" id="gomal_dam">
           <div class="col-lg-4 col-sm-2">
             <div class="contact-card">
               <img src="img/projects/gharowind.jpg" height="200px" alt="" class="img-fluid">
@@ -317,7 +317,7 @@
             </div>
           </div>
         </div>
-        <div class="row" id="gomal_dam">
+        <div class="row contact-card" id="gomal_dam">
           <div class="col-lg-4 col-sm-2">
             <div class="contact-card">
               <img src="img/projects/tarbeladam.jpeg" height="200px" alt="" class="img-fluid">

@@ -26,7 +26,7 @@
             <!-- <p>Dong Fang International Co.</p> -->
         </div>
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -34,7 +34,7 @@
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer">Water Reducer</h2>
                             <p></p>
@@ -60,7 +60,7 @@ concrete:
                 </div>
 
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -68,7 +68,7 @@ concrete:
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer">Accelerating Admixture</h2>
                             <p></p>
@@ -90,7 +90,7 @@ concrete:
                 </div>
 
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -98,7 +98,7 @@ concrete:
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer">Cement Plasticizer</h2>
                             <p></p>
@@ -113,7 +113,7 @@ concrete:
                 </div>
 
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -121,7 +121,7 @@ concrete:
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer">Grouting Material</h2>
                             <p></p>
@@ -138,7 +138,7 @@ concrete:
                 </div>
 
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -146,7 +146,7 @@ concrete:
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer">Mold Release Agent </h2>
                             <p></p>
@@ -164,7 +164,7 @@ and extruded sections.
                 </div>
 
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -172,7 +172,7 @@ and extruded sections.
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer">Rust Inhibitors</h2>
                             <p></p>
@@ -197,7 +197,7 @@ performance.
                 </div>
 
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -205,7 +205,7 @@ performance.
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer">Water Proof Agents </h2>
                             <p></p>
@@ -221,7 +221,7 @@ cement gap role fully.
                 </div>
 
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -229,7 +229,7 @@ cement gap role fully.
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer">Curing Compound </h2>
                             <p></p>
@@ -247,7 +247,7 @@ mortar, reduce concrete shrinkage and cracking.</p>
                 </div>
 
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -255,7 +255,7 @@ mortar, reduce concrete shrinkage and cracking.</p>
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer">Expansion Agent</h2>
                             <p></p>
@@ -277,7 +277,7 @@ been widely applied to the production and manufacturing of materials.</p>
                 </div>
 
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -285,7 +285,7 @@ been widely applied to the production and manufacturing of materials.</p>
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer">Soundless Cracking Agent</h2>
                             <p></p>
@@ -303,7 +303,7 @@ vibration, no flying stone, no pollution and easy control.</p>
                 </div>
 
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -311,7 +311,7 @@ vibration, no flying stone, no pollution and easy control.</p>
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer"> Capsules</h2>
                             <p></p>
@@ -329,7 +329,7 @@ special construction works.
                 </div>
 
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 contact-card">
                 <div class="row" id="gomal_dam">
                     <div class="col-lg-4 col-sm-2">
                         <div class="contact-card">
@@ -337,7 +337,7 @@ special construction works.
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-6">
-                        <div class="contact-card" style="padding:30px">
+                        <div class="" style="padding:30px">
 
                             <h2 id="WaterReducer">Hardening accelerating adixtures</h2>
                             <p></p>

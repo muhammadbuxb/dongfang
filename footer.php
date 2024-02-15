@@ -72,7 +72,7 @@
           <h3>Contacts</h3>
           <ul>
             <li>
-              <a href="tel:">
+              <a href="tel:+923423939058">
                 <i class="fas fa-mobile-alt"></i>
                 +92 342 3939 058</a>
             </li>
@@ -193,7 +193,7 @@
 
 
 <div class="whatsapp_icon">
-  <a href="https://api.whatsapp.com/send?phone=+923431362647-&amp;text=Hi"><img src="img/whatsapp.png"
+  <a href="https://api.whatsapp.com/send?phone=+923423939058-&amp;text=Hi"><img src="img/whatsapp.png"
       alt="Chat with Team"></a>
 </div>
 
